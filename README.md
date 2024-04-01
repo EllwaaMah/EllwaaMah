@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Ellwaa Mahmou
-## I am Odoo devloper
+## I am Odoo Developer
 
 
 
