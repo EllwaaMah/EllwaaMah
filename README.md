@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Ellwaa Mahmou
+### Hi there 👋, my name is Ellwaa Mahmoud
 ### I am Odoo Developer
 
 
